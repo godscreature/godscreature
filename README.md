@@ -1,17 +1,18 @@
 ### Hi there, I'm Den Arustamov 👋
 
-**PHP / Symfony Backend Developer** focused on building scalable web applications, clean architectures, and reliable asynchronous systems.
+**PHP / Symfony Backend Developer** focused on building reliable web applications, clean architectures, and asynchronous processing systems.
 
 #### 🛠 Tech Stack
 - **Backend:** PHP 8.3+, Symfony 6/7, REST API, Doctrine ORM
-- **Databases & Caching:** PostgreSQL, MySQL, Redis (caching, rate limiting, idempotency)
+- **Databases & Caching:** PostgreSQL, MySQL, Redis (caching, rate limiting)
 - **Messaging & Queues:** RabbitMQ, Symfony Messenger
-- **DevOps & Quality:** Docker, Docker Compose, GitHub Actions, PHPStan (Level 8), PHPUnit, PHP-CS-Fixer
-- **AI Engineering:** AI-assisted workflows (Claude Code, MCP), LLM API integrations
+- **DevOps & Quality:** Docker, Docker Compose, PHPStan (Level 8), PHPUnit, PHP-CS-Fixer
+- **AI Engineering:** AI-assisted development workflows (Claude Code, MCP)
 
 #### 🎯 Engineering Focus
-- Designing maintainable modular backends and applying SOLID & DDD principles where appropriate
-- Ensuring fault tolerance, transactional consistency, and query optimization under load
+- Writing clean, maintainable code following **SOLID** principles and classic **Design Patterns**
+- Designing relational database schemas, indexing strategies, and transactional business logic
+- Building asynchronous background workflows using message queues and workers
 - Automating code quality checks and testing pipelines
 
 #### 📫 How to reach me
