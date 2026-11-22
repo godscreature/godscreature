@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm Den Arustamov 👋
 
-<!--
-**godscreature/godscreature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PHP / Symfony Backend Developer** focused on building scalable web applications, clean architectures, and reliable asynchronous systems.
 
-Here are some ideas to get you started:
+#### 🛠 Tech Stack
+- **Backend:** PHP 8.3+, Symfony 6/7, REST API, Doctrine ORM
+- **Databases & Caching:** PostgreSQL, MySQL, Redis (caching, rate limiting, idempotency)
+- **Messaging & Queues:** RabbitMQ, Symfony Messenger
+- **DevOps & Quality:** Docker, Docker Compose, GitHub Actions, PHPStan (Level 8), PHPUnit, PHP-CS-Fixer
+- **AI Engineering:** AI-assisted workflows (Claude Code, MCP), LLM API integrations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🎯 Engineering Focus
+- Designing maintainable modular backends and applying SOLID & DDD principles where appropriate
+- Ensuring fault tolerance, transactional consistency, and query optimization under load
+- Automating code quality checks and testing pipelines
+
+#### 📫 How to reach me
+- **LinkedIn:** [https://www.linkedin.com/in/denis-arustamov-353a683b/]
