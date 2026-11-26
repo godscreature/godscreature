@@ -17,3 +17,4 @@
 
 #### 📫 How to reach me
 - **LinkedIn:** [Den Arustamov](https://www.linkedin.com/in/denis-arustamov-353a683b/)
+- **Email:** [den.arustamov@gmail.com]
