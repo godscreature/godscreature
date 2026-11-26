@@ -16,5 +16,5 @@
 - Automating code quality checks and testing pipelines
 
 #### 📫 How to reach me
-- **LinkedIn:** [Den Arustamov](https://www.linkedin.com/in/denis-arustamov-353a683b/)
-- **Email:** [den.arustamov@gmail.com]
+- **LinkedIn:** [Den Arustamov](https://www.linkedin.com/in/den-arustamov/)
+- **Email:** [den.arustamov@gmail.com](mailto:den.arustamov@gmail.com)
